@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- QuickClip icon -->
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <title>QuickClip</title>
+  <rect x="4" y="4" width="120" height="120" rx="28" fill="#0b0b12"/>
+  <rect x="12" y="12" width="104" height="104" rx="22" fill="#2bff88"/>
+  <path d="M48 42 L88 64 L48 86 Z" fill="#06120b"/>
+  <path d="M26 96 H64" fill="none" stroke="#06120b" stroke-width="7" stroke-linecap="round"/>
+</svg>
