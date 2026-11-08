@@ -107,7 +107,7 @@ incluido con FFmpeg.
 ### Instalación recomendada
 
 ```bash
-git clone <URL-DE-TU-REPOSITORIO> quickclip
+git clone https://github.com/ErikWebDeveloper/QuickClip quickclip
 cd quickclip
 chmod +x install.sh uninstall.sh run.sh
 ./install.sh
